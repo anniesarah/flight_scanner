@@ -28,4 +28,4 @@ The Tequila API (formerly known as Kiwi.com's APIs) is used to fetch flight deta
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions, feature requests, or bug reports, please [open an issue](https://github.com/your_username/flight-scanner/issues) or submit a pull request.
+Contributions are welcome! If you have suggestions, feature requests, or bug reports, please [open an issue](https://github.com/anniesarah/flight-scanner/issues) or submit a pull request.
